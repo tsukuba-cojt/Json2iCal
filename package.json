@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/generate_ical.js"
+},
+  "dependencies": {
+    "ical-generator": "^7.1.0",
+    "typescript": "^5.4.5"
+  }
+}
