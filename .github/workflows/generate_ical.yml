@@ -34,7 +34,7 @@ jobs:
         if [ -f dist/schedule.ics ]; then
           git add dist/schedule.ics
           git commit -m "Update schedule.ics"
-          git push https://${{ secrets.GH_TOKEN }}@github.com/johndoe/Json2iCal.git HEAD:main
+          git push https://${{ secrets.GH_TOKEN }}@github.com/iorin-io/Json2iCal.git HEAD:main
         else
           echo "dist/schedule.ics not found"
         fi
