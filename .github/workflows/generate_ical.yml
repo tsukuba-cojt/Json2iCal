@@ -37,3 +37,4 @@ jobs:
           git push https://${{ secrets.GH_TOKEN }}@github.com/johndoe/Json2iCal.git HEAD:main
         else
           echo "dist/schedule.ics not found"
+        fi
