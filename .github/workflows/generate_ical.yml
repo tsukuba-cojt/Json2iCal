@@ -25,4 +25,4 @@ jobs:
       run: npx tsc && node dist/generate_ical.js
 
     - name: iCalをコミット
-      run: git add dist/calendar.ics && git commit -m "Update calendar.ics" && git push
+      run: git add dist/schedule.ics && git commit -m "Update schedule.ics" && git push
