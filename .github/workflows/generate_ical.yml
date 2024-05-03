@@ -1,0 +1,28 @@
+name: Generate iCal
+
+on:
+  push:
+    paths:
+      - '**/*.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: チェックアウトリポジトリ
+      uses: actions/checkout@v2
+
+    - name: Node.jsのセットアップ
+      uses: actions/setup-node@v2
+      with:
+        node-version: '20'
+
+    - name: ical-generatorのインストール
+      run: npm install ical-generator
+
+    - name: JSONを読み込んでiCalを生成
+      run: node generate_ical.ts
+
+    - name: iCalをコミット
+      run: git add calendar.ics && git commit -m "Update calendar.ics" && git push
