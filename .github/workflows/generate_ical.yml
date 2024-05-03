@@ -3,7 +3,7 @@ name: Generate iCal
 on:
   push:
     paths:
-      - '**/*.json'
+      - 'src/schedule.json'
 
 jobs:
   build:
@@ -18,11 +18,11 @@ jobs:
       with:
         node-version: '20'
 
-    - name: ical-generatorのインストール
-      run: npm install ical-generator
+    - name: 依存関係のインストール
+      run: npm install
 
     - name: JSONを読み込んでiCalを生成
-      run: node generate_ical.ts
+      run: npx tsc && node dist/generate_ical.js
 
     - name: iCalをコミット
       run: git add calendar.ics && git commit -m "Update calendar.ics" && git push
