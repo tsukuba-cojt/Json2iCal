@@ -2,7 +2,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/generate_ical.js"
+    "start": "node docs/generate_ical.js"
   },
   "dependencies": {
     "ical-generator": "^7.1.0",

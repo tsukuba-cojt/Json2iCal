@@ -15,4 +15,4 @@ data.events.forEach(event => {
 });
 
 const icalContent = calendar.toString();
-fs.writeFileSync('dist/schedule.ics', icalContent);
+fs.writeFileSync("docs/schedule.ics", icalContent);

@@ -143,4 +143,4 @@ out
 # End of https://www.toptal.com/developers/gitignore/api/node
 
 
-dist/generate_ical.js
+docs/generate_ical.js

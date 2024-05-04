@@ -3,7 +3,7 @@ name: Generate iCal
 on:
   push:
     paths:
-      - 'src/schedule.json'
+      - "src/schedule.json"
 
 jobs:
   build:
@@ -12,31 +12,31 @@ jobs:
       contents: write
 
     steps:
-    - name: チェックアウトリポジトリ
-      uses: actions/checkout@v2
+      - name: チェックアウトリポジトリ
+        uses: actions/checkout@v2
 
-    - name: Node.jsのセットアップ
-      uses: actions/setup-node@v2
-      with:
-        node-version: '20'
+      - name: Node.jsのセットアップ
+        uses: actions/setup-node@v2
+        with:
+          node-version: "20"
 
-    - name: 依存関係のインストール
-      run: npm install
+      - name: 依存関係のインストール
+        run: npm install
 
-    - name: JSONを読み込んでiCalを生成
-      run: npx tsc && node dist/generate_ical.js
+      - name: JSONを読み込んでiCalを生成
+        run: npx tsc && node docs/generate_ical.js
 
-    - name: Gitの設定
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
+      - name: Gitの設定
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
 
-    - name: iCalをコミット
-      run: |
-        if [ -f dist/schedule.ics ]; then
-          git add dist/schedule.ics
-          git commit -m "Update schedule.ics"
-          git push origin HEAD:main
-        else
-          echo "dist/schedule.ics not found"
-        fi
+      - name: iCalをコミット
+        run: |
+          if [ -f docs/schedule.ics ]; then
+            git add docs/schedule.ics
+            git commit -m "Update schedule.ics"
+            git push origin HEAD:main
+          else
+            echo "docs/schedule.ics not found"
+          fi

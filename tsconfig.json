@@ -1,12 +1,10 @@
 {
-    "compilerOptions": {
-        "module": "ESNext",
-        "moduleResolution": "Node",
-        "target": "ESNext",
-        "esModuleInterop": true,
-        "outDir": "dist"
-    },
-	"include": [
-		"src/generate_ical.ts"
-	]
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "target": "ESNext",
+    "esModuleInterop": true,
+    "outDir": "docs"
+  },
+  "include": ["src/generate_ical.ts"]
 }
