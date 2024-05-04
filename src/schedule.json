@@ -1,25 +1,32 @@
 {
-	"events": [
-		{
-			"summary": "COJT第4回",
-			"start": "2024-05-08T12:15:00+09:00",
-			"end": "2024-05-08T15:00:00+09:00",
-			"location": "3C203",
-			"description": "COJT第4回"
-		},
-		{
-			"summary": "COJT第5回",
-			"start": "2024-05-10T15:15:00+09:00",
-			"end": "2024-05-10T18:00:00+09:00",
-			"location": "3C203",
-			"description": "COJT第5回"
-		},
-		{
-			"summary": "COJT第6回",
-			"start": "2024-05-15T12:15:00",
-			"end": "2024-05-15T15:00:00",
-			"location": "3C203",
-			"description": "COJT第6回"
-		}
-	]
+  "events": [
+    {
+      "summary": "COJT第4回",
+      "start": "2024-05-08T12:15:00+09:00",
+      "end": "2024-05-08T15:00:00+09:00",
+      "location": "3C203",
+      "description": "COJT第4回"
+    },
+    {
+      "summary": "COJT第5回",
+      "start": "2024-05-10T15:15:00+09:00",
+      "end": "2024-05-10T18:00:00+09:00",
+      "location": "3C203",
+      "description": "COJT第5回"
+    },
+    {
+      "summary": "COJT第6回",
+      "start": "2024-05-15T12:15:00",
+      "end": "2024-05-15T15:00:00",
+      "location": "3C203",
+      "description": "COJT第6回"
+    },
+    {
+      "summary": "COJT第7回",
+      "start": "2024-05-17T15:15:00",
+      "end": "2024-05-17T18:00:00",
+      "location": "3C203",
+      "description": "COJT第7回"
+    }
+  ]
 }
