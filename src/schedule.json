@@ -1,200 +1,207 @@
 {
   "events": [
     {
-      "summary": "筑波大学COJT-筑波大学第1回",
-      "description": "本田、藤永",
-      "start": "2024-04-24T12:15:00+09:00",
-      "end": "2024-04-24T15:00:00+09:00",
-      "location": "3C203"
+      "summary": "COJT授業 第0回",
+      "start": "2025-04-16T12:15:00",
+      "end": "2025-04-16T15:00:00",
+      "description": "実験ガイダンス・面談（オンライン）",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第2回",
-      "description": "藤永",
-      "start": "2024-04-26T15:15:00+09:00",
-      "end": "2024-04-26T18:00:00+09:00",
-      "location": "3C204"
+      "summary": "COJT授業 第1回",
+      "start": "2025-04-23T12:15:00",
+      "end": "2025-04-23T15:00:00",
+      "description": "初回導入・各種設定",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第3回",
-      "description": "5/3(金）授業を実施、本田、客野さん「ailia SDKを使用したAIアプリ開発」",
-      "start": "2024-05-01T12:15:00+09:00",
-      "end": "2024-05-01T15:00:00+09:00",
-      "location": "3C205"
+      "summary": "COJT授業 第2回",
+      "start": "2025-04-25T15:15:00",
+      "end": "2025-04-25T18:00:00",
+      "description": "KaizenPlatform オープニングセレモニー　18:00～（仮）",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第4回",
-      "description": "藤永",
-      "start": "2024-05-08T12:15:00+09:00",
-      "end": "2024-05-08T15:00:00+09:00",
-      "location": "3C206"
+      "summary": "COJT授業 第3回",
+      "start": "2025-04-30T12:15:00",
+      "end": "2025-04-30T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第5回",
-      "description": "藤永",
-      "start": "2024-05-10T15:15:00+09:00",
-      "end": "2024-05-10T18:00:00+09:00",
-      "location": "3C207"
+      "summary": "COJT授業 第4回",
+      "start": "2025-05-02T15:15:00",
+      "end": "2025-05-02T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第6回",
-      "description": "本田",
-      "start": "2024-05-15T12:15:00+09:00",
-      "end": "2024-05-15T15:00:00+09:00",
-      "location": "3C208"
+      "summary": "COJT授業 第5回",
+      "start": "2025-05-09T15:15:00",
+      "end": "2025-05-09T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第7回",
-      "description": "藤永",
-      "start": "2024-05-17T15:15:00+09:00",
-      "end": "2024-05-17T18:00:00+09:00",
-      "location": "3C209"
+      "summary": "COJT授業 第6回",
+      "start": "2025-05-14T12:15:00",
+      "end": "2025-05-14T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第8回",
-      "description": "本田",
-      "start": "2024-05-22T12:15:00+09:00",
-      "end": "2024-05-22T15:00:00+09:00",
-      "location": "3C210"
+      "summary": "COJT授業 第7回",
+      "start": "2025-05-16T15:15:00",
+      "end": "2025-05-16T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第9回",
-      "description": "藤永",
-      "start": "2024-05-24T15:15:00+09:00",
-      "end": "2024-05-24T18:00:00+09:00",
-      "location": "3C211"
+      "summary": "COJT授業 第8回",
+      "start": "2025-05-21T12:15:00",
+      "end": "2025-05-21T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第10回",
-      "description": "本田",
-      "start": "2024-05-29T12:15:00+09:00",
-      "end": "2024-05-29T15:00:00+09:00",
-      "location": "3C212"
+      "summary": "COJT授業 第9回",
+      "start": "2025-05-23T15:15:00",
+      "end": "2025-05-23T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第11回",
-      "description": "藤永",
-      "start": "2024-05-31T15:15:00+09:00",
-      "end": "2024-05-31T18:00:00+09:00",
-      "location": "3C213"
+      "summary": "COJT授業 第10回",
+      "start": "2025-05-28T12:15:00",
+      "end": "2025-05-28T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第12回",
-      "description": "本田",
-      "start": "2024-06-05T12:15:00+09:00",
-      "end": "2024-06-05T15:00:00+09:00",
-      "location": "3C214"
+      "summary": "COJT授業 第11回",
+      "start": "2025-05-30T15:15:00",
+      "end": "2025-05-30T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第13回",
-      "description": "藤永",
-      "start": "2024-06-07T15:15:00+09:00",
-      "end": "2024-06-07T18:00:00+09:00",
-      "location": "3C215"
+      "summary": "COJT授業 第12回",
+      "start": "2025-06-04T12:15:00",
+      "end": "2025-06-04T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第14回",
-      "description": "本田",
-      "start": "2024-06-12T12:15:00+09:00",
-      "end": "2024-06-12T15:00:00+09:00",
-      "location": "3C216"
+      "summary": "COJT授業 第13回",
+      "start": "2025-06-06T15:15:00",
+      "end": "2025-06-06T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第15回",
-      "description": "JX金属さん座学、藤永",
-      "start": "2024-06-14T15:15:00+09:00",
-      "end": "2024-06-14T18:00:00+09:00",
-      "location": "3C217"
+      "summary": "COJT授業 第14回",
+      "start": "2025-06-11T12:15:00",
+      "end": "2025-06-11T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第16回",
-      "description": "本田",
-      "start": "2024-06-19T12:15:00+09:00",
-      "end": "2024-06-19T15:00:00+09:00",
-      "location": "3C218"
+      "summary": "COJT授業 第15回",
+      "start": "2025-06-13T15:15:00",
+      "end": "2025-06-13T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第17回",
-      "description": "藤永",
-      "start": "2024-06-21T15:15:00+09:00",
-      "end": "2024-06-21T18:00:00+09:00",
-      "location": "3C219"
+      "summary": "COJT授業 第16回",
+      "start": "2025-06-18T12:15:00",
+      "end": "2025-06-18T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第18回",
-      "description": "本田",
-      "start": "2024-06-26T12:15:00+09:00",
-      "end": "2024-06-26T15:00:00+09:00",
-      "location": "3C220"
+      "summary": "COJT授業 第17回",
+      "start": "2025-06-20T15:15:00",
+      "end": "2025-06-20T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第19回",
-      "description": "春ABモジュール期末試験、藤永",
-      "start": "2024-06-28T15:15:00+09:00",
-      "end": "2024-06-28T18:00:00+09:00",
-      "location": "3C221"
+      "summary": "COJT授業 第18回",
+      "start": "2025-06-25T12:15:00",
+      "end": "2025-06-25T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第20回",
-      "description": "春ABモジュール期末試験、本田",
-      "start": "2024-07-03T12:15:00+09:00",
-      "end": "2024-07-03T15:00:00+09:00",
-      "location": "3C222"
+      "summary": "COJT授業 第19回",
+      "start": "2025-06-27T15:15:00",
+      "end": "2025-06-27T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第21回",
-      "description": "藤永",
-      "start": "2024-07-05T15:15:00+09:00",
-      "end": "2024-07-05T18:00:00+09:00",
-      "location": "3C223"
+      "summary": "COJT授業 第20回",
+      "start": "2025-07-02T12:15:00",
+      "end": "2025-07-02T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第22回",
-      "description": "本田",
-      "start": "2024-07-10T12:15:00+09:00",
-      "end": "2024-07-10T15:00:00+09:00",
-      "location": "3C224"
+      "summary": "COJT授業 第21回",
+      "start": "2025-07-04T15:15:00",
+      "end": "2025-07-04T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第23回",
-      "description": "藤永",
-      "start": "2024-07-12T15:15:00+09:00",
-      "end": "2024-07-12T18:00:00+09:00",
-      "location": "3C225"
+      "summary": "COJT授業 第22回",
+      "start": "2025-07-09T12:15:00",
+      "end": "2025-07-09T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第24回",
-      "description": "本田",
-      "start": "2024-07-17T12:15:00+09:00",
-      "end": "2024-07-17T15:00:00+09:00",
-      "location": "3C226"
+      "summary": "COJT授業 第23回",
+      "start": "2025-07-11T15:15:00",
+      "end": "2025-07-11T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第25回",
-      "description": "本田",
-      "start": "2024-07-19T15:15:00+09:00",
-      "end": "2024-07-19T18:00:00+09:00",
-      "location": "3C227"
+      "summary": "COJT授業 第24回",
+      "start": "2025-07-16T12:15:00",
+      "end": "2025-07-16T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第26回",
-      "description": "藤永",
-      "start": "2024-07-24T12:15:00+09:00",
-      "end": "2024-07-24T15:00:00+09:00",
-      "location": "3C228"
+      "summary": "COJT授業 第25回",
+      "start": "2025-07-18T15:15:00",
+      "end": "2025-07-18T18:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第27回",
-      "description": "本田",
-      "start": "2024-07-26T15:15:00+09:00",
-      "end": "2024-07-26T18:00:00+09:00",
-      "location": "3C229"
+      "summary": "COJT授業 第26回",
+      "start": "2025-07-23T12:15:00",
+      "end": "2025-07-23T15:00:00",
+      "description": "",
+      "location": ""
     },
     {
-      "summary": "筑波大学COJT-第28回",
+      "summary": "COJT授業 第27回",
+      "start": "2025-07-25T15:15:00",
+      "end": "2025-07-25T18:00:00",
+      "description": "",
+      "location": ""
+    },
+    {
+      "summary": "COJT授業 第28回",
+      "start": "2025-07-30T12:15:00",
+      "end": "2025-07-30T15:00:00",
       "description": "ソフト春学期成果発表会",
-      "start": "2024-07-31T12:15:00+09:00",
-      "end": "2024-07-31T15:00:00+09:00",
-      "location": "3C230"
+      "location": ""
     }
   ]
 }
