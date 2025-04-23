@@ -9,13 +9,18 @@
 
 追記: 2024-05-13
 iCal形式のファイルの購読先
+
 ```
 https://tsukuba-cojt.github.io/Json2iCal/schedule.ics
 ```
+
 に変更となった
 
 追記: 2025-03-22
 [2025年春学期のスケジュールを反映させたiCal形式ファイルがダウンロード](https://tsukuba-cojt.github.io/Json2iCal/schedule.ics)できるようになりました。
+
+追記：2025-04-23
+[2025年春学期ハードウェアコースに対応したものがダウンロード](https://tsukuba-cojt.github.io/Json2iCal/schedule-hw.ics)できるようになりました。
 
 ## Usage
 
